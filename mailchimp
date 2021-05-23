@@ -1,0 +1,22 @@
+// Api:
+
+7ee63358e836cf4af65d1aa163f5ff6f-us6
+
+
+//List:
+fd650a7989
+
+
+
+var data={
+        members:[
+            {
+                email_address: email,
+                status: "subscribed",
+                merge_fields:{
+                    FNAME: fName,
+                    LNAME: lName,
+                }
+            }
+        ]
+    }
